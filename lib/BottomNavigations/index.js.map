@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/js/BottomNavigations/index.js"],"names":["BottomNavigation"],"mappings":";;;;;;;AAAA;;;;;;;QAGOA,gB","file":"index.js","sourcesContent":["import BottomNavigation from './BottomNavigation';\r\nexport default BottomNavigation;\r\n\r\nexport BottomNavigation from './BottomNavigation';\r\n"]}

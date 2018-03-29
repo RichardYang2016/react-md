@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/js/Chips/index.js"],"names":["Chip"],"mappings":";;;;;;;AAAA;;;;;;;QAGOA,I","file":"index.js","sourcesContent":["import Chip from './Chip';\r\nexport default Chip;\r\n\r\nexport Chip from './Chip';\r\n"]}

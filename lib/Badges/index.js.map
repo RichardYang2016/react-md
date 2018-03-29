@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/js/Badges/index.js"],"names":["Badge"],"mappings":";;;;;;;AAAA;;;;;;;QAGOA,K","file":"index.js","sourcesContent":["import Badge from './Badge';\r\nexport default Badge;\r\n\r\nexport Badge from './Badge';\r\n"]}

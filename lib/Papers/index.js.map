@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/js/Papers/index.js"],"names":["Paper"],"mappings":";;;;;;;AAAA;;;;;;;QAGOA,K","file":"index.js","sourcesContent":["import Paper from './Paper';\r\nexport default Paper;\r\n\r\nexport Paper from './Paper';\r\n"]}

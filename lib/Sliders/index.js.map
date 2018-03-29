@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/js/Sliders/index.js"],"names":["Slider"],"mappings":";;;;;;;AAAA;;;;;;;QAGOA,M","file":"index.js","sourcesContent":["import Slider from './Slider';\r\nexport default Slider;\r\n\r\nexport Slider from './Slider';\r\n"]}

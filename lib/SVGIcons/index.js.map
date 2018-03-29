@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/js/SVGIcons/index.js"],"names":["SVGIcon"],"mappings":";;;;;;;AAAA;;;;;;;QAGOA,O","file":"index.js","sourcesContent":["import SVGIcon from './SVGIcon';\r\nexport default SVGIcon;\r\n\r\nexport SVGIcon from './SVGIcon';\r\n"]}

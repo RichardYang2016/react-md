@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/js/Inks/index.js"],"names":["injectInk"],"mappings":";;;;;;;AAAA;;;;;;;QAGOA,S","file":"index.js","sourcesContent":["import injectInk from './injectInk';\r\nexport default injectInk;\r\n\r\nexport injectInk from './injectInk';\r\n"]}

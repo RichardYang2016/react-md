@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/js/FontIcons/index.js"],"names":["FontIcon"],"mappings":";;;;;;;AAAA;;;;;;;QAGOA,Q","file":"index.js","sourcesContent":["import FontIcon from './FontIcon';\r\nexport default FontIcon;\r\n\r\nexport FontIcon from './FontIcon';\r\n"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/js/Snackbars/index.js"],"names":["Snackbar"],"mappings":";;;;;;;AAAA;;;;;;;;;;;QAGOA,Q","file":"index.js","sourcesContent":["import Snackbar from './SnackbarContainer';\r\nexport default Snackbar;\r\n\r\nexport Snackbar from './Snackbar';\r\n"]}
